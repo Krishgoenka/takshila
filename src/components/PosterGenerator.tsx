@@ -71,7 +71,7 @@ export default function PosterGenerator() {
           GET YOUR TICKET
         </span>
         <h2 className="section-title text-4xl sm:text-5xl md:text-6xl text-gradient-crimson glow-text-crimson">
-          OFFICIAL INVITATION
+          OFFICIAL INVITATION FOR ALUMNI AND SENIORS 
         </h2>
         <p className="font-inter text-base sm:text-lg text-white/40 mt-4 tracking-wide max-w-md mx-auto">
           Generate your personalized invitation pass
